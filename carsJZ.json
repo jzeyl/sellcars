@@ -1,0 +1,167 @@
+[
+  {
+    "Id": "1",
+    "BrandId": 101,
+    "ProductName": "Toyota Corolla",
+    "GraphicName": "toyota_corolla.png",
+    "CostPrice": 18000.00,
+    "MSRP": 22000.00,
+    "QtyOnHand": 50,
+    "QtyOnBackOrder": 10,
+    "Description": "A reliable and fuel-efficient sedan with advanced safety features."
+  },
+  {
+    "Id": "2",
+    "BrandId": 102,
+    "ProductName": "Ford Mustang",
+    "GraphicName": "ford_mustang.png",
+    "CostPrice": 35000.00,
+    "MSRP": 40000.00,
+    "QtyOnHand": 30,
+    "QtyOnBackOrder": 5,
+    "Description": "A powerful sports car with a classic design and high-performance engine."
+  },
+  {
+    "Id": "3",
+    "BrandId": 103,
+    "ProductName": "Honda Civic",
+    "GraphicName": "honda_civic.png",
+    "CostPrice": 19000.00,
+    "MSRP": 24000.00,
+    "QtyOnHand": 40,
+    "QtyOnBackOrder": 8,
+    "Description": "A compact car with cutting-edge technology and great fuel efficiency."
+  },
+  {
+    "Id": "4",
+    "BrandId": 104,
+    "ProductName": "Chevrolet Silverado",
+    "GraphicName": "chevrolet_silverado.png",
+    "CostPrice": 32000.00,
+    "MSRP": 38000.00,
+    "QtyOnHand": 20,
+    "QtyOnBackOrder": 4,
+    "Description": "A durable and powerful pickup truck, perfect for heavy-duty tasks."
+  },
+  {
+    "Id": "5",
+    "BrandId": 105,
+    "ProductName": "BMW X5",
+    "GraphicName": "bmw_x5.png",
+    "CostPrice": 55000.00,
+    "MSRP": 60000.00,
+    "QtyOnHand": 25,
+    "QtyOnBackOrder": 6,
+    "Description": "A luxury SUV offering comfort, performance, and advanced technology."
+  },
+  {
+    "Id": "6",
+    "BrandId": 106,
+    "ProductName": "Tesla Model 3",
+    "GraphicName": "tesla_model_3.png",
+    "CostPrice": 40000.00,
+    "MSRP": 45000.00,
+    "QtyOnHand": 35,
+    "QtyOnBackOrder": 7,
+    "Description": "An all-electric sedan with autopilot capabilities and long-range battery life."
+  },
+  {
+    "Id": "7",
+    "BrandId": 107,
+    "ProductName": "Audi A6",
+    "GraphicName": "audi_a6.png",
+    "CostPrice": 50000.00,
+    "MSRP": 55000.00,
+    "QtyOnHand": 15,
+    "QtyOnBackOrder": 3,
+    "Description": "A sophisticated luxury sedan with premium interior and advanced safety features."
+  },
+  {
+    "Id": "8",
+    "BrandId": 108,
+    "ProductName": "Mercedes-Benz C-Class",
+    "GraphicName": "mercedes_c_class.png",
+    "CostPrice": 47000.00,
+    "MSRP": 52000.00,
+    "QtyOnHand": 18,
+    "QtyOnBackOrder": 2,
+    "Description": "A premium compact sedan with smooth performance and refined design."
+  },
+  {
+    "Id": "9",
+    "BrandId": 109,
+    "ProductName": "Jeep Wrangler",
+    "GraphicName": "jeep_wrangler.png",
+    "CostPrice": 31000.00,
+    "MSRP": 36000.00,
+    "QtyOnHand": 22,
+    "QtyOnBackOrder": 5,
+    "Description": "An off-road-ready SUV designed for adventure and rugged terrains."
+  },
+  {
+    "Id": "10",
+    "BrandId": 110,
+    "ProductName": "Volkswagen Golf",
+    "GraphicName": "vw_golf.png",
+    "CostPrice": 21000.00,
+    "MSRP": 26000.00,
+    "QtyOnHand": 28,
+    "QtyOnBackOrder": 6,
+    "Description": "A versatile hatchback with sporty handling and modern tech."
+  },
+  {
+    "Id": "11",
+    "BrandId": 111,
+    "ProductName": "Mazda CX-5",
+    "GraphicName": "mazda_cx5.png",
+    "CostPrice": 28000.00,
+    "MSRP": 32000.00,
+    "QtyOnHand": 33,
+    "QtyOnBackOrder": 4,
+    "Description": "A stylish and efficient SUV with advanced safety features."
+  },
+  {
+    "Id": "12",
+    "BrandId": 112,
+    "ProductName": "Subaru Outback",
+    "GraphicName": "subaru_outback.png",
+    "CostPrice": 29000.00,
+    "MSRP": 34000.00,
+    "QtyOnHand": 27,
+    "QtyOnBackOrder": 6,
+    "Description": "A rugged crossover with all-wheel drive for adventure seekers."
+  },
+  {
+    "Id": "13",
+    "BrandId": 113,
+    "ProductName": "Hyundai Sonata",
+    "GraphicName": "hyundai_sonata.png",
+    "CostPrice": 25000.00,
+    "MSRP": 29000.00,
+    "QtyOnHand": 30,
+    "QtyOnBackOrder": 5,
+    "Description": "A mid-size sedan combining modern design and great efficiency."
+  },
+  {
+    "Id": "14",
+    "BrandId": 114,
+    "ProductName": "Nissan Altima",
+    "GraphicName": "nissan_altima.png",
+    "CostPrice": 24000.00,
+    "MSRP": 28000.00,
+    "QtyOnHand": 26,
+    "QtyOnBackOrder": 7,
+    "Description": "A stylish sedan with intelligent mobility features."
+  },
+  {
+    "Id": "15",
+    "BrandId": 115,
+    "ProductName": "Kia Sorento",
+    "GraphicName": "kia_sorento.png",
+    "CostPrice": 32000.00,
+    "MSRP": 37000.00,
+    "QtyOnHand": 21,
+    "QtyOnBackOrder": 4,
+    "Description": "A spacious SUV with cutting-edge technology and great fuel economy."
+  }
+]
