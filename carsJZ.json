@@ -40,7 +40,7 @@
     "BrandId": 104,
     "Brand": "Chevrolet",
     "ProductName": "Chevrolet Silverado",
-    "GraphicName": "chevy_silverado.png",
+    "GraphicName": "chevrolet_silverado.png",
     "CostPrice": 32000.00,
     "MSRP": 38000.00,
     "QtyOnHand": 20,
@@ -146,6 +146,7 @@
   {
     "Id": "a13",
     "BrandId": 113,
+    "Brand": "Hyundai",
     "ProductName": "Hyundai Sonata",
     "GraphicName": "hyundai_sonata.png",
     "CostPrice": 25000.00,
@@ -157,6 +158,7 @@
   {
     "Id": "a14",
     "BrandId": 114,
+    "Brand": "Nissan",
     "ProductName": "Nissan Altima",
     "GraphicName": "nissan_altima.png",
     "CostPrice": 24000.00,
@@ -168,7 +170,8 @@
   {
     "Id": "a15",
     "BrandId": 115,
-    "ProductName": "Kia Sorento",
+    "Brand": "Tesla",
+    "ProductName": "Tesla cybertruck",
     "GraphicName": "kia_sorento.png",
     "CostPrice": 32000.00,
     "MSRP": 37000.00,
