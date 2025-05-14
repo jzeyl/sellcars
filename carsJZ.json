@@ -40,7 +40,7 @@
     "BrandId": 104,
     "Brand": "Chevrolet",
     "ProductName": "Chevrolet Silverado",
-    "GraphicName": "chevrolet_silverado.png",
+    "GraphicName": "chevy_silverado.png",
     "CostPrice": 32000.00,
     "MSRP": 38000.00,
     "QtyOnHand": 20,
