@@ -11,9 +11,9 @@
     "ProductName": "Toyota Corolla",
     "GraphicName": "toyota_corolla.png",
     "CostPrice": 509.99,
-    "MSRP": 22000.00,
-    "QtyOnHand": 50,
-    "QtyOnBackOrder": 10,
+    "MSRP": 509.99,
+    "QtyOnHand": 1,
+    "QtyOnBackOrder": 0,
     "Description": "A reliable and fuel-efficient sedan with advanced safety features."
   },
   {
@@ -82,10 +82,10 @@
     "Brand": "Toyota",
     "ProductName": "Toyota Tercel",
     "GraphicName": "toyota_tercel.png",
-    "CostPrice": 50000.00,
-    "MSRP": 55000.00,
-    "QtyOnHand": 15,
-    "QtyOnBackOrder": 3,
+    "CostPrice": 599.9,
+    "MSRP": 599.9,
+    "QtyOnHand": 1,
+    "QtyOnBackOrder": 0,
     "Description": "A sophisticated luxury sedan with premium interior and advanced safety features."
   },
   {
