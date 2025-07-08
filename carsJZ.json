@@ -82,8 +82,8 @@
     "Brand": "Toyota",
     "ProductName": "Toyota Tercel",
     "GraphicName": "toyota_tercel.png",
-    "CostPrice": 599.9,
-    "MSRP": 599.9,
+    "CostPrice": 599.99,
+    "MSRP": 599.99,
     "QtyOnHand": 1,
     "QtyOnBackOrder": 0,
     "Description": "A sophisticated luxury sedan with premium interior and advanced safety features."
